@@ -1,0 +1,1 @@
+Dado 1: 6, Dado 2: 1, Resultado: 7Dado 1: 6, Dado 2: 5, Resultado: 11Dado 1: 3, Dado 2: 2, Resultado: 5Dado 1: 5, Dado 2: 0, Resultado: 5Dado 1: 5, Dado 2: 6, Resultado: 11Dado 1: 0, Dado 2: 5, Resultado: 5Dado 1: 6, Dado 2: 6, Resultado: 12Dado 1: 0, Dado 2: 1, Resultado: 1Dado 1: 6, Dado 2: 0, Resultado: 6Dado 1: 4, Dado 2: 4, Resultado: 8Dado 1: 2, Dado 2: 2, Resultado: 4
